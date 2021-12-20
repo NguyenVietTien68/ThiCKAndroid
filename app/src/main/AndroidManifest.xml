@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.33_18078881_NguyenVietTien_DHKTPM14CTT_02">
         <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
             android:name=".ScreenTransfer"
             android:exported="true" />
         <activity
